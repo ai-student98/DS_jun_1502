@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Ds junior Aliev project 
 
-Description of the app ...
+Абракадабра
 
 ## Demo App
 
